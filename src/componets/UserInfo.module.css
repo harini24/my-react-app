@@ -1,0 +1,36 @@
+.userInfoCont{
+    position: absolute;
+    /* margin: 21vh auto; */
+    height: 84vh;;
+    width: 98vw;
+    box-sizing: border-box;
+}
+.UserInfoDet{
+    font-size: 24px;
+    padding: 10px;
+}
+.userInfo{
+    margin: 9vh auto;
+    padding: 46px 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 36%;
+}
+.UserInfoDetImg{  
+    text-align: left; 
+    font-size: 24px;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.img{
+    width: 122px;
+    border-radius: 50%;
+    margin-left: 15px;
+}

@@ -1,0 +1,8 @@
+.loginContainer{
+    position: absolute;
+    margin: 33vh auto;
+    padding: 5vw 5vh;
+    height: 20vh;
+    width: 100vw;
+    box-sizing: border-box;
+}

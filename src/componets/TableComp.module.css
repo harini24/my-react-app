@@ -1,0 +1,41 @@
+.tableCont{   
+    position: absolute;
+    /* margin: 18vh auto; */
+    width: 100vw;
+    padding: 5vw 5vh;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+}
+.tabledisp{
+/* width: 80vh; */
+padding: 26px;
+border: 1px solid #44413c;
+}
+.nameCol{
+    width: 300px;
+    text-align: left;
+}
+.idCol{
+    width: 65px;
+    text-align: left;
+}
+.emailCol{
+    width: 300px;
+    text-align: left;
+}
+.clickCol{
+    width: 100px;
+    text-align: left;
+}
+
+.table{
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+}
+.tableRows{
+    display: flex;
+    justify-content: space-between;
+}

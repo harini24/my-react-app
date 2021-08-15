@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 
+clientID.js
 # testing
 /coverage
 
